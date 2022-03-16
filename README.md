@@ -9,3 +9,9 @@ This is a basic troll game based on Among Us and was created using pygame module
 
 # How it Works?
 Hit the kill button and eventually instead of killing, you will get Rick Rolled.
+#3
+
+![3](https://user-images.githubusercontent.com/64316945/158528103-84a1a40e-69b7-4623-b5b5-8263c301d3f0.PNG)
+#4
+![4](https://user-images.githubusercontent.com/64316945/158528111-daf45449-b5dd-4379-8925-8a512f37ce3b.PNG)
+
