@@ -1,4 +1,4 @@
-# Basic-Among-Us-Troll-Pygame
+# Among-Us-Troll-Pygame
 This is a basic troll game based on Among Us and was created using pygame module.
 
 #1
